@@ -29,6 +29,8 @@ const ctx = getNetlifyContext();
 
 export default function Page() {
     return (
+        <h1>Website in progress, will be ready by Friday June 28th</h1>
+        /*
         <main className="flex flex-col gap-8 sm:gap-16">
             <section className="flex flex-col items-start gap-3 sm:gap-4">
                 <ContextAlert />
@@ -52,8 +54,9 @@ export default function Page() {
                 <RandomQuote />
                 <Markdown content={postDynamicContentExplainer} />
             </section>
-            {/* !!cards?.length && <CardsGrid cards={cards} /> */}
+            {/* !!cards?.length && <CardsGrid cards={cards} /> /}
         </main>
+        */
     );
 }
 
