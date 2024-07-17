@@ -29,7 +29,7 @@ const ctx = getNetlifyContext();
 
 export default function Page() {
     return (
-        <h1>Website in progress, will be ready by Friday June 28th</h1>
+        <h1>Website in progress, Will be ready soon</h1>
         /*
         <main className="flex flex-col gap-8 sm:gap-16">
             <section className="flex flex-col items-start gap-3 sm:gap-4">
